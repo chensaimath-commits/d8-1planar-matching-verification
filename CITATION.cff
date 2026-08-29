@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the accompanying paper."
+title: "Computer verification for the d=8 case of the 1-planar matching bound"
+type: software
+authors:
+  - family-names: Chen
+    given-names: Sai
+  - family-names: Li
+    given-names: Wei
+    email: liw@nwpu.edu.cn
+version: 1.0.0
+date-released: 2026-08-29
+abstract: >-
+  Reproducible checkers and recorded exhaustive-search data for the four
+  finite exclusions in the d=8 case of the bounded-matching problem for
+  simple 1-planar graphs.
+keywords:
+  - 1-planar graph
+  - matching number
+  - bounded degree
+  - computer-assisted proof
