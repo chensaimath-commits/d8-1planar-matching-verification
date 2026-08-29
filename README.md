@@ -17,7 +17,7 @@ the remaining possibilities to the following four parameter triples.
 
 ## The four verification programs
 
-| Program | $(R,k,a)$ | Finite case | Decisive recorded value |
+| Program | $(\nu,k,a)$ | Finite case | Decisive recorded value |
 |---|---:|---|---:|
 | `verify_19_vertex_case.py` | $(9,2,0)$ | 19-vertex dual-matching exclusion | `complete_matchings=0` |
 | `verify_23_vertex_case.py` | $(11,3,0)$ | 23-vertex triangle-incidence exclusion | `target_tau_1x22_2=0` |
