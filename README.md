@@ -90,15 +90,6 @@ exhaustive catalogue generation and inverse enumeration.  Their generation
 commands, source provenance, reference counts, and SHA-256 values are recorded
 in the technical notes inside `verification_data/`.
 
-## Citation
 
-This repository accompanies the paper *Maximum Size of 1-Planar Graphs with
-Maximum Degree Seven and Bounded Matching Number*.  Citation metadata are
-provided in `CITATION.cff`.
 
-## Licensing notice
 
-No repository-wide license has yet been selected for the authors' original
-code.  The repository also contains third-party plantri sources, which remain
-subject to their upstream terms.  See `LICENSE-NOTICE.md` and the license
-notices stored with those sources.
